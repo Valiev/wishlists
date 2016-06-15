@@ -2,7 +2,7 @@
 
 ## Current
 
-- уши parrot zik 2.0
+- ~~уши parrot zik 2.0~~ *taken by St by himself*
 - колонки с AirPlay
 - Benq 1070 / Benq 1080 проектор
 - подписка на журнал "The New Times"
